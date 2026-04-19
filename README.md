@@ -68,11 +68,11 @@ These can be converted into explicit quantum circuits using standard decompositi
 
 ## References
 
-* N. Rengaswamy, R. Calderbank, S. Kadhe, H. D. Pfister
+* N. Rengaswamy, R. Calderbank, S. Kadhe, H. D. Pfister.
   *Logical Clifford Synthesis for Stabilizer Codes*, IEEE TQE, 2020
 
-* P. P. Kulkarni
-  *Logical Clifford Synthesis for Subsystem Codes* (2026)
+* P. P. Kulkarni.
+  *Logical Clifford Synthesis for Subsystem Codes* (Under Submission, 2026)
 
 ---
 
