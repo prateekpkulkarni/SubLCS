@@ -2,8 +2,8 @@
 
 Reference implementation of Subsystem Logical Clifford Synthesis (SubLCS), providing complete enumeration of all physical Clifford realizations of a logical Clifford operator on subsystem stabilizer codes.
 
-📄 Paper: [Logical Clifford Synthesis for Subsystem Codes](./docs/SubsystemLCS_Gauge.pdf)  
-💻 Code: [sublcs.py](./docs/sublcs.py)
+📄 Paper: [Logical Clifford Synthesis for Subsystem Codes](https://github.com/prateekpkulkarni/SubLCS/blob/main/SubsystemLCS_Gauge.pdf) 
+💻 Code: [sublcs.py](https://github.com/prateekpkulkarni/SubLCS/blob/main/sublcs.py)
 
 ---
 
