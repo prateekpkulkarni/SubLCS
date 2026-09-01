@@ -35,7 +35,7 @@ At a high level:
 👉 **Code reference:**  
 The implementation of the **Phase 2 (gauge orbit construction and lifting)** — the key extension beyond classical LCS — can be found here:
 
-➡️ [`sublcs.py`](https://github.com/prateekpkulkarni/SubLCS/blob/main/sublcs.py))
+➡️ [`sublcs.py`](https://github.com/prateekpkulkarni/SubLCS/blob/main/sublcs.py)
 
 ---
 
